@@ -1,4 +1,4 @@
-Simple Interest Calculator.
+Simple Interest Calculator
 A simple web-based calculator that computes Simple Interest from a principal amount, an annual interest rate, and a time period in years.
 Formula
 ```
